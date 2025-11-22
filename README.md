@@ -84,7 +84,10 @@ Esteja sempre pronto para escolher a ação mais apropriada baseado na solicita�
 
 ## 📚 Referências
 
-  **Azure Frontier Girls – Repositório do Challenge**  
+- **Azure Frontier Girls – Repositório do Challenge**  
   
 [github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge)
 
+- **O que é o Azure AI Foundry Agent Service** — Documentação oficial da Microsoft.
+
+[learn.microsoft.com/azure/ai-services/agents/concepts/agent-catalog](https://learn.microsoft.com/pt-br/azure/ai-services/agents/concepts/agent-catalog)
