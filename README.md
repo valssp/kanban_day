@@ -49,12 +49,37 @@ Por último, você deve organizar visualmente o quadro "Kanban do Dia" com as ta
 
 ## 🖥️ Prints de Funcionamento
 
-🔹 Criação do Agente KanbanDay no Azure AI Foundry
+### 🔹 Criação do Agente e prompt de instruções do KanbanDay no Azure AI Foundry
 
-🔹 Prompt configurado nas Instruções
+![Criação do agente](https://raw.githubusercontent.com/valssp/kanban_day/refs/heads/main/1_cria%C3%A7%C3%A3o_agente.jfif)
 
-🔹 Envio das tarefas pelo usuário
+### 🔹 Envio das tarefas pelo usuário
 
-🔹 Kanban gerado pelo agente (A Fazer / Fazendo / Concluído)
+![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/2_envio_tasks.jpg)
 
-🔹 Atualização do Kanban e interações
+### 🔹 Atualização do Kanban e primeira interação
+
+![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/3_task_conclu%C3%ADda.jpg)
+
+### 🔹 Kanban gerado pelo agente (A Fazer / Fazendo / Concluído)
+
+![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/4_a%C3%A7%C3%B5es_fazer_fazendo_conclu%C3%ADdo.jpg)
+
+### 🔹 Atualização do Kanban
+
+![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/5_tasks_conclu%C3%ADdas.jpg)
+
+---
+
+## 🔗 Links Importantes
+
+### ▶️ Link do Agente no Azure AI Foundry
+
+**URL:** https://ai.azure.com/resource/agentsList?wsid=/subscriptions/51954757-564d-48f0-8e5a-c3a220e89497/resourceGroups/rg-valeriaspinto-7725/providers/Microsoft.CognitiveServices/accounts/kanbanday-resource/projects/KanbanDay&tid=3443c0ae-5f31-4209-9b68-c2f3bbe3d32e
+
+---
+
+## 📚 Referências
+
+- **AzureFrontierGirls – AI Challenge**  
+  https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge
