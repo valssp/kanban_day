@@ -37,13 +37,16 @@ O KanbanDay consegue:
 
 ---
 
-## 📜 Prompt utilizado nas Instruções do Agente
+## 📜 Prompt Utilizado nas Instruções do Agente
 
+```
 Você é o KanbanDay, um agente criado para ajudar o usuário a organizar suas tarefas diárias usando um quadro Kanban simples, com três colunas: A Fazer, Fazendo e Concluído. Seu objetivo é melhorar a rotina do usuário em home office, oferecendo foco, organização e bem-estar. Você deve: 
 - interpretar a intenção do usuário (adicionar tarefa, mover tarefa, mostrar o kanban, renomear tarefa)
 - usar as ações disponíveis sempre que for necessário modificar ou consultar tarefas.
 - retornar respostas claras e curtas, com linguagem simples.
-Por último, você deve organizar visualmente o quadro "Kanban do Dia" com as tarefas enviadas nas categorias "A Fazer", "Fazendo" e "Concluído". Separando cada categoria em bullet points para que a visualização e entendimento seja claro. Esteja sempre pronto para escolher a ação mais apropriada baseado na solicitação do usuário (mover tarefa, incluir, remover, editar e outras). A sua função é tornar a vida profissional do usuário mais produtiva e organizada.
+Por último, você deve organizar visualmente o quadro "Kanban do Dia" com as tarefas enviadas nas categorias "A Fazer", "Fazendo" e "Concluído", separando cada categoria em bullet points para que a visualização seja clara. 
+Esteja sempre pronto para escolher a ação mais apropriada baseado na solicitação do usuário (mover tarefa, incluir, remover, editar e outras). A sua função é tornar a vida profissional do usuário mais produtiva e organizada.
+```
 
 ---
 
@@ -51,23 +54,23 @@ Por último, você deve organizar visualmente o quadro "Kanban do Dia" com as ta
 
 ### 🔹 Criação do Agente e prompt de instruções do KanbanDay no Azure AI Foundry
 
-![Criação do agente](https://raw.githubusercontent.com/valssp/kanban_day/refs/heads/main/1_cria%C3%A7%C3%A3o_agente.jfif)
+![Criação do agente](1_criação_agente.jfif)
 
 ### 🔹 Envio das tarefas pelo usuário
 
-![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/2_envio_tasks.jpg)
+![Criação do agente](2_envio_tasks.jpg)
 
 ### 🔹 Atualização do Kanban e primeira interação
 
-![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/3_task_conclu%C3%ADda.jpg)
+![Criação do agente](3_task_concluída.jpg)
 
 ### 🔹 Kanban gerado pelo agente (A Fazer / Fazendo / Concluído)
 
-![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/4_a%C3%A7%C3%B5es_fazer_fazendo_conclu%C3%ADdo.jpg)
+![Criação do agente](4_ações_fazer_fazendo_concluído.jpg)
 
 ### 🔹 Atualização do Kanban
 
-![Criação do agente](https://github.com/valssp/kanban_day/blob/bb283964fac56743eda7556324092244881a3b45/5_tasks_conclu%C3%ADdas.jpg)
+![Criação do agente](5_tasks_concluídas.jpg)
 
 ---
 
@@ -75,11 +78,13 @@ Por último, você deve organizar visualmente o quadro "Kanban do Dia" com as ta
 
 ### ▶️ Link do Agente no Azure AI Foundry
 
-**URL:** https://ai.azure.com/resource/agentsList?wsid=/subscriptions/51954757-564d-48f0-8e5a-c3a220e89497/resourceGroups/rg-valeriaspinto-7725/providers/Microsoft.CognitiveServices/accounts/kanbanday-resource/projects/KanbanDay&tid=3443c0ae-5f31-4209-9b68-c2f3bbe3d32e
+[Acesse o KanbanDay no Azure](https://ai.azure.com/resource/agentsList?wsid=/subscriptions/51954757-564d-48f0-8e5a-c3a220e89497/resourceGroups/rg-valeriaspinto-7725/providers/Microsoft.CognitiveServices/accounts/kanbanday-resource/projects/KanbanDay&tid=3443c0ae-5f31-4209-9b68-c2f3bbe3d32e)
 
 ---
 
 ## 📚 Referências
 
-- **AzureFrontierGirls – AI Challenge**  
-  https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge
+  **Azure Frontier Girls – Repositório do Challenge**  
+  
+[github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge)
+
